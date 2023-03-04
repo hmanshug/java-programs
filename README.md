@@ -1,2 +1,2 @@
 # java-programs
-My all java language solutions
+Ducat Java Training (2014) & Technovite Internship (2013) solutions
